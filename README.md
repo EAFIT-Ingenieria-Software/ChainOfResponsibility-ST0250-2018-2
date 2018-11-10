@@ -5,7 +5,7 @@
   - Esteban Osorio
   - Gonzalo Garcia Hernandez
 
-## Haremos uso de éste patrón en alguna de estas situaciones
+## Haremos uso de este patrón en alguna de estas situaciones o alguna otra similar
   - Hay más de un objeto que puede manejar una petición, y el manejador no se conoce a priori, sino que debería determinarse         automáticamente.
   - Se quiere enviar una petición a un objeto entre varios sin especificar explícitamente el receptor. 
   - El conjunto de objetos que pueden tratar una petición debería ser especificado dinámicamente.
