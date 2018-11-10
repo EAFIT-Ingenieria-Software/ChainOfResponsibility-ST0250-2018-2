@@ -1,4 +1,4 @@
-# Chain Of Responsibility 
+# Patrón de diseño: Chain Of Responsibility 
 
 ## Integrantes del Equipo:
   - Damiam Londoño García
@@ -6,13 +6,9 @@
   - Gonzalo Garcia Hernandez
 
 ## Haremos uso de éste patrón en alguna de estas situaciones
-
   - Hay más de un objeto que puede manejar una petición, y el manejador no se conoce a priori, sino que debería determinarse         automáticamente.
   - Se quiere enviar una petición a un objeto entre varios sin especificar explícitamente el receptor. 
   - El conjunto de objetos que pueden tratar una petición debería ser especificado dinámicamente.
-
-4. Modelo de Clases y/o Modelo de secuencia DE LA SOLUCIÓN IMPLEMENTADA, no
-del patrón.
 
 ## Desarrollado en JAVA
 
