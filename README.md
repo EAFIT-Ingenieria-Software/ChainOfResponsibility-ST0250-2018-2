@@ -1,10 +1,25 @@
 # Chain Of Responsibility 
 
-1. Nombre de cada uno de los integrantes del Equipo
-2. Nombre del patrón de diseño.
-3. Explicación de la problemática o justificación del uso del patrón de diseño.
+## Integrantes del Equipo:
+  - Damiam Londoño García
+  - Esteban Osorio
+  - Gonzalo Garcia Hernandez
+  
+## Nombre del patrón de diseño: Chain Of Responsibility 
+
+## Haremos uso de éste patrón en alguna de estas situaciones
+
+  - Hay más de un objeto que puede manejar una petición, y el manejador no se conoce a priori, sino que debería determinarse         automáticamente.
+  - Se quiere enviar una petición a un objeto entre varios sin especificar explícitamente el receptor. 
+  - El conjunto de objetos que pueden tratar una petición debería ser especificado dinámicamente.
+
 4. Modelo de Clases y/o Modelo de secuencia DE LA SOLUCIÓN IMPLEMENTADA, no
 del patrón.
-5. Lenguaje de programación en el que se desarrolló la solución
-6. Describir detalladamente la manera de ejecución del código, las dependencias, etc.
-7. Referencias bibliográficas.
+
+## Desarrollado en JAVA
+
+## Manera de ejecución del código
+
+## Referencias bibliográficas
+- https://es.wikipedia.org/wiki/Cadena_de_responsabilidad
+- https://www.youtube.com/watch?v=iMDqYCGM1So
