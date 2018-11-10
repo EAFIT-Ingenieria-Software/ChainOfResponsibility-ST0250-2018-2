@@ -4,8 +4,6 @@
   - Damiam Londoño García
   - Esteban Osorio
   - Gonzalo Garcia Hernandez
-  
-## Nombre del patrón de diseño: Chain Of Responsibility 
 
 ## Haremos uso de éste patrón en alguna de estas situaciones
 
@@ -19,6 +17,9 @@ del patrón.
 ## Desarrollado en JAVA
 
 ## Manera de ejecución del código
+Con el programa BlueJ: Hacemos clic derecho sobre la clase *ContactarAsesor* luego clic en la clase *Main* se nos habrirá una pequeña ventana con un campo, ahí le ponemos *{}* y presionamos *ENTER*, una vez se nos habra la ventana preguntandonos si *queremos contactar un asesor* escribimos *si* y presionamos *ENTER*.
+
+En otro programa basta con ejecutar la clase *Main* y una vez nos pregunte si *queremos contactar un asesor* simplemente ponemos *si* y presionamos *ENTER*.
 
 ## Referencias bibliográficas
 - https://es.wikipedia.org/wiki/Cadena_de_responsabilidad
